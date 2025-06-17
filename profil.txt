@@ -1,0 +1,3 @@
+Nama: raihan pauzan nasir
+Hobi: olahraga, bermain musik
+Tujuan belajar Git: Memahami dan menguasai dasar penggunaan Git untuk pengelolaan versi proyek agar lebih efisien.
